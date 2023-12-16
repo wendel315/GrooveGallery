@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GrooveGallery
 build_property.RootNamespace = GrooveGallery
-build_property.ProjectDir = C:\Users\Wendel\Documents\Projetos\GrooveGallery\GrooveGallery\
+build_property.ProjectDir = C:\Users\Wendel\GrooveGallery\GrooveGallery\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Wendel\Documents\Projetos\GrooveGallery\GrooveGallery
+build_property.MSBuildProjectDirectory = C:\Users\Wendel\GrooveGallery\GrooveGallery
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Categorias/Create.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Categorias/Delete.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Create.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Details.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Error.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Index.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Privacy.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/QuemSomos.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/QuemSomos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlbVNvbW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/Shared/_Layout.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/_ViewImports.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wendel/Documents/Projetos/GrooveGallery/GrooveGallery/Pages/_ViewStart.cshtml]
+[C:/Users/Wendel/GrooveGallery/GrooveGallery/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
