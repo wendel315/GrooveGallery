@@ -1,0 +1,39 @@
+﻿@page "/album/{slug}/{id}"
+@model GrooveGallery.Pages.DetailsModel
+
+<h2 class="my-3">@Model.Album.Nome</h2>
+
+<div class="row">
+
+    <div class="col-4">
+        <img class="img-fluid rounded" src="@Model.Album.ImagemUri">
+    </div>
+
+    <div class="col-6">
+        <h4 class="my-3">Sobre:</h4>
+        <p>@Model.Album.Descricao</p>
+        <h4 class="my-3">Mais Info:</h4>
+        <ul>
+            <li><label asp-for="Album.Preco"></label>: @Html.DisplayFor(model => model.Album.Preco)</li>
+            <li><label asp-for="Album.EntregaExpressa"></label>: @Model.Album.EntregaExpressaFormatada</li>
+            <li><label asp-for="Album.DataCadastro"></label>: @Html.DisplayFor(model => model.Album.DataCadastro)</li>
+            @if (Model.Marca is not null)
+            {
+                <li><label asp-for="Album.MarcaId"></label>: @Html.DisplayFor(model => model.Marca.Descricao)</li>
+            }
+            @if (Model.Album.Categorias.Count > 0)
+            {
+                <li>
+                    <label asp-for="Album.Categorias"></label>:
+                    @string.Join(", ", Model.Album.Categorias.Select(item => item.Descricao))
+                </li>
+            }
+        </ul>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <a class="btn my-3 btn-primary"
+               asp-page="Edit" asp-route-id="@Model.Album.AlbumId">Editar</a>
+        }
+    </div>
+
+</div>
