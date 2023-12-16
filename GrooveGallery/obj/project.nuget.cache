@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bUR0r+bACdu8Tk0SqR+Fen/URBVFCQuns23//metFfiTWAeGwy6ZeCexJ5DfYClLJY1/2cNOKBb2kIazr/8gfg==",
+  "dgSpecHash": "IwAooJT2d9oERuHmagOS5m00/l8hhlWhlkusswE6U2bNYWx7SJ4/XHfncFtNQ+iUukVRsrLoeUrWnFZVooAkmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wendel\\Documents\\Projetos\\GrooveGallery\\GrooveGallery\\GrooveGallery.csproj",
+  "projectFilePath": "C:\\Users\\Wendel\\GrooveGallery\\GrooveGallery\\GrooveGallery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wendel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Wendel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

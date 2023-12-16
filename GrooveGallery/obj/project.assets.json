@@ -13120,11 +13120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wendel\\Documents\\Projetos\\GrooveGallery\\GrooveGallery\\GrooveGallery.csproj",
+      "projectUniqueName": "C:\\Users\\Wendel\\GrooveGallery\\GrooveGallery\\GrooveGallery.csproj",
       "projectName": "GrooveGallery",
-      "projectPath": "C:\\Users\\Wendel\\Documents\\Projetos\\GrooveGallery\\GrooveGallery\\GrooveGallery.csproj",
+      "projectPath": "C:\\Users\\Wendel\\GrooveGallery\\GrooveGallery\\GrooveGallery.csproj",
       "packagesPath": "C:\\Users\\Wendel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wendel\\Documents\\Projetos\\GrooveGallery\\GrooveGallery\\obj\\",
+      "outputPath": "C:\\Users\\Wendel\\GrooveGallery\\GrooveGallery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
